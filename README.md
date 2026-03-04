@@ -1,1 +1,45 @@
-# Caso-de-Estudio
+# 📊 BankMarketing EDA - Análisis Exploratorio de Datos
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-11557c)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-7c9cb0)](https://seaborn.pydata.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 📋 Descripción del proyecto
+
+Aplicación interactiva desarrollada en **Streamlit** para realizar un Análisis Exploratorio de Datos (EDA) completo del dataset **BankMarketing**. El objetivo es identificar patrones, relaciones y comportamientos relevantes que expliquen la caída en la efectividad de las campañas de marketing de una institución financiera (de 12% a 8% en los últimos 6 meses).
+
+Este proyecto fue desarrollado como parte de la **Especialización en Python for Analytics** y aplica conceptos fundamentales como:
+- Programación Orientada a Objetos (POO)
+- Manipulación de datos con Pandas y NumPy
+- Visualización con Matplotlib y Seaborn
+- Widgets interactivos de Streamlit
+
+## 🚀 Demo en vivo
+
+👉 **[Accede a la aplicación desplegada](enlace)** 
+
+## 📸 Capturas de pantalla
+
+### Módulo Home
+![Home](capturas/home.png)
+
+### Carga de datos
+![Carga](capturas/carga.png)
+
+### Análisis Exploratorio (EDA)
+![EDA](capturas/eda.png)
+*Vista del tab de distribución numérica*
+
+## 🛠️ Tecnologías utilizadas
+
+- **Lenguaje:** Python 3.9+
+- **Librerías:** Pandas, NumPy, Matplotlib, Seaborn
+- **Framework:** Streamlit
+- **Programación Orientada a Objetos:** Clase `DataProcessor` que encapsula la lógica de análisis
+- **Control de versiones:** Git y GitHub
+- **Despliegue:** Streamlit Cloud
+
+## 📁 Estructura del proyecto
