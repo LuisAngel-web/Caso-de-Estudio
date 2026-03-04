@@ -19,19 +19,19 @@ Este proyecto fue desarrollado como parte de la **Especialización en Python for
 
 ## 🚀 Demo en vivo
 
-👉 **[Accede a la aplicación desplegada](enlace)** 
+👉 **[Accede a la aplicación desplegada](https://caso-de-estudio-hpqkrxd4dz44tktewbzq6y.streamlit.app/)** 
 
 ## 📸 Capturas de pantalla
 
 ### Módulo Home
-![Home](capturas/home.png)
+![Home](Captura/Home.png)
 
 ### Carga de datos
-![Carga](capturas/carga.png)
+![Carga](Captura/carga1.png)
+![Carga](Captura/carga2.png)
 
 ### Análisis Exploratorio (EDA)
-![EDA](capturas/eda.png)
-*Vista del tab de distribución numérica*
+![EDA](Captura/eda.png)
 
 ## 🛠️ Tecnologías utilizadas
 
