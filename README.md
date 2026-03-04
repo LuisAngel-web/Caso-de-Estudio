@@ -24,7 +24,7 @@ Este proyecto fue desarrollado como parte de la **Especialización en Python for
 ## 📸 Capturas de pantalla
 
 ### Módulo Home
-![Home](Captura/Home.png)
+![Home](Caso-de-Estudio/Home.png)
 
 ### Carga de datos
 ![Carga](Captura/carga1.png)
