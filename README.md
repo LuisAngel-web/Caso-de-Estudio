@@ -24,14 +24,15 @@ Este proyecto fue desarrollado como parte de la **Especialización en Python for
 ## 📸 Capturas de pantalla
 
 ### Módulo Home
-![Home](Caso-de-Estudio/Home.png)
+![Home](Home.png)
 
-### Carga de datos
-![Carga](Captura/carga1.png)
-![Carga](Captura/carga2.png)
+### Carga de datos (vista previa y dimensiones)
+![Carga 1](carga1.png)
+![Carga 2](carga2.png)
 
 ### Análisis Exploratorio (EDA)
-![EDA](Captura/eda.png)
+![EDA](eda.png)
+*Vista del tab de distribución numérica*
 
 ## 🛠️ Tecnologías utilizadas
 
