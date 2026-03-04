@@ -66,7 +66,73 @@ BankMarketing-EDA/
 
 Sigue estos pasos para ejecutar la aplicación en tu máquina local:
 
-1. **Clona el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/BankMarketing-EDA.git
-   cd BankMarketing-EDA
+### 1️⃣ Clonar el repositorio
+```bash
+https://github.com/LuisAngel-web/Caso-de-Estudio/tree/main
+```
+
+### 2️⃣ Instalar dependencias
+pip install -r requirements.txt
+
+### 3️⃣ Ejecutar la aplicación
+streamlit run app.py
+
+### 📊 Funcionalidades principales
+La aplicación está organizada en tres módulos navegables desde la barra lateral:
+
+## 🏠 Módulo 1: Home
+Presentación del proyecto y objetivos
+
+Datos del autor
+
+Descripción del dataset y tecnologías utilizadas
+
+## 📂 Módulo 2: Carga de datos
+Carga del archivo CSV (con separador punto y coma)
+
+Validación y vista previa
+
+Dimensiones del dataset
+
+## 📈 Módulo 3: Análisis Exploratorio (EDA)
+Organizado en 10 pestañas con análisis específicos:
+
+Pestaña	Descripción
+- 📋 Información general	Tipos de datos, valores nulos, dimensiones
+- 🔢 Clasificación	Separación de variables numéricas y categóricas
+- 📊 Estadísticas	Resumen estadístico (media, mediana, etc.)
+- ❌ Valores faltantes	Conteo y visualización de nulos
+- 📈 Distribución numérica	Histogramas interactivos con KDE
+- 📊 Análisis categórico	Gráficos de barras y tablas de frecuencia
+- 🔗 Bivariado (num-cat)	Boxplots, violines y histogramas por categoría
+- 🔗 Bivariado (cat-cat)	Tablas de contingencia y barras agrupadas
+- 🎛️ Análisis dinámico	Filtros combinados (edad, resultado) y gráficos a elección
+- 📌 Hallazgos	Conclusiones clave del análisis
+- 🧠 Programación Orientada a Objetos
+Se implementó la clase DataProcessor (en data_processor.py) que encapsula:
+
+- ✅ Clasificación de variables (numéricas/categóricas)
+- ✅ Cálculo de estadísticas descriptivas
+- ✅ Generación de visualizaciones (histogramas, boxplots, barras, scatter plots, contingencia)
+
+Esto permite un código más limpio, reutilizable y fácil de mantener.
+
+## 📈 Resultados y conclusiones
+- Edad y aceptación: Los clientes entre 30-40 años presentan mayor tasa de aceptación.
+- Duración de llamada: Llamadas >200 segundos tienen más éxito.
+- Ocupación: Estudiantes y jubilados muestran alta aceptación relativa.
+- Estacionalidad: Marzo, septiembre y octubre son los mejores meses.
+- Variables económicas: Mayor tasa de empleo se correlaciona con mayor aceptación.
+
+## 📝 Licencia
+Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
+
+## 👤 Autor
+Luis Ángel Cordova Palomino
+- 🎓 Especialización en Python for Analytics
+- 📧 tucorreo@ejemplo.com
+- 🔗 LinkedIn
+- 🐙 GitHub
+
+⭐ ¡Gracias por visitar este proyecto!
+Si te gustó, no olvides dejar una estrella en el repositorio. 😊
