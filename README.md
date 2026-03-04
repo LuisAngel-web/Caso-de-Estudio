@@ -44,3 +44,29 @@ Este proyecto fue desarrollado como parte de la **Especialización en Python for
 - **Despliegue:** Streamlit Cloud
 
 ## 📁 Estructura del proyecto
+```bash
+BankMarketing-EDA/
+│
+├── app.py # Aplicación principal de Streamlit
+├── data_processor.py # Clase DataProcessor (POO)
+├── requirements.txt # Dependencias del proyecto
+├── README.md # Documentación
+├── .streamlit/
+│ └── config.toml # Configuración de tema de Streamlit
+├── capturas/ # Capturas de pantalla para el README
+│ ├── home.png
+│ ├── carga1.png
+│ ├── carga2.png
+│ └── eda.png
+└── dataset/ # (Opcional) Carpeta con el dataset
+└── BankMarketing.csv
+```
+
+## ⚙️ Instalación y ejecución local
+
+Sigue estos pasos para ejecutar la aplicación en tu máquina local:
+
+1. **Clona el repositorio**
+   ```bash
+   git clone https://github.com/tu-usuario/BankMarketing-EDA.git
+   cd BankMarketing-EDA
