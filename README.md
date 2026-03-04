@@ -132,7 +132,7 @@ Luis Ángel Cordova Palomino
 - 🎓 Especialización en Python for Analytics
 - 📧 luisangelcordova52@gmail.com
 - 🐙 GitHub https://github.com/LuisAngel-web/Caso-de-Estudio/tree/main
-- - 📅 2026 – DMC Institute
+- 📅 2026 – DMC Institute
 
 ⭐ ¡Gracias por visitar este proyecto!
 Si te gustó, no olvides dejar una estrella en el repositorio. 😊
