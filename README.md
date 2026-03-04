@@ -17,7 +17,7 @@ Este proyecto fue desarrollado como parte de la **Especialización en Python for
 - Visualización con Matplotlib y Seaborn
 - Widgets interactivos de Streamlit
 
-## 🚀 Demo en vivo
+## 🚀 Aplicación en Streamlit
 
 👉 **[Accede a la aplicación desplegada](https://caso-de-estudio-hpqkrxd4dz44tktewbzq6y.streamlit.app/)** 
 
